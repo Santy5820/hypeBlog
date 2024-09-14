@@ -23,3 +23,15 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+/* Estilos para la cabecera */
+.cabecera {
+    background-color: #4a90e2; /* Color de fondo azul */
+    color: white; /* Color del texto */
+    padding: 20px; /* Espaciado interno */
+    text-align: left; /* Centrar texto */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra sutil */
+    border-radius: 5px; /* Bordes redondeados */
+    display: flex; /* Mostrar elementos en línea */
+    justify-content: space-between; /* Espacio entre los elementos */
+}
